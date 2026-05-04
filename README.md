@@ -16,9 +16,10 @@ A Python-based calculator project that supports both command-line interaction an
 - Tkinter (for GUI)
 
 ## Project Structure
-calculator_logic.py   # Core functions
-cli_calculator.py     # Command-line version
-gui_calculator.py     # GUI version
+
+- calculator_logic.py → Core functions  
+- cli_calculator.py → Command-line version  
+- gui_calculator.py → GUI version  
 ## 📸 Preview
 
 ![Calculator GUI](./simple-calculator-cli-gui/gui.png)
