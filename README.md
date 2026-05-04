@@ -21,4 +21,4 @@ cli_calculator.py     # Command-line version
 gui_calculator.py     # GUI version
 ## 📸 Preview
 
-![Calculator GUI](simple-calculator-cli-gui/gui.png)
+![Calculator GUI](./simple-calculator-cli-gui/gui.png)
